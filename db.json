@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "aaaaaa",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!"
+    },
+    {
+      "id": 2,
+      "title": "ssssss",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!"
+    },
+    {
+      "id": 3,
+      "title": "dddddd",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!"
+    },
+    {
+      "id": 4,
+      "title": "cccccc",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!"
+    },
+    {
+      "id": 5,
+      "title": "eeeeee",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, atque!"
+    }
+  ],
+  "about": {
+    "title": "Страница про нас"
+  }
+}

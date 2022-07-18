@@ -1,0 +1,11 @@
+.title {
+  height: 50px;
+}
+
+.nav {
+  height: 50px;
+  background-color: grey;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-around;
+}
